@@ -1,0 +1,35 @@
+# Documento de entrega (contém URLs pessoais do Worker/Wokwi)
+ENTREGA.md
+
+# Segredos e variáveis de ambiente
+.env
+.env.*
+.dev.vars
+*.pem
+*.key
+secrets.h
+credentials.h
+
+# Cloudflare / Wrangler
+.wrangler/
+wrangler.toml
+wrangler.json
+wrangler.jsonc
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Arduino / PlatformIO / Wokwi
+.pio/
+build/
+*.bin
+*.elf
+wokwi.toml
+
+# Sistema / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
